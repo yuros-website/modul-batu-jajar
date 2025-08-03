@@ -1,0 +1,5 @@
+Markdown memiliki sejumlah kelebihan yang membuatnya sangat populer, terutama di kalangan penulis, pengembang, dan dokumentator teknis. Beberapa keunggulannya antara lain:
+pertama Sintaks Sederhana dan Mudah Diingat. Markdown menggunakan simbol-simbol yang mudah dipahami, seperti # untuk heading dan * untuk list atau teks miring. Ini membuat penulisan menjadi cepat dan tidak rumit.
+kedua Mudah Dikonversi ke Format Lain. Teks Markdown dapat dengan mudah diubah ke HTML, PDF, atau format lainnya menggunakan berbagai alat seperti pandoc atau editor Markdown.
+ketiga Ringan dan Cepat. Markdown hanya berupa teks biasa (plain text), sehingga sangat ringan dan cepat dibuka, bahkan di komputer dengan spesifikasi rendah.
+ke-empat Didukung oleh Banyak Platform. Markdown digunakan secara luas di GitHub (README.md), Notion, Obsidian, VS Code, Discord, dan banyak layanan lainnya, sehingga kompatibilitasnya sangat tinggi.

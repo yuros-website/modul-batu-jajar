@@ -1,0 +1,24 @@
+Markdown dapat digunakan dengan berbagai jenis editor dan alat bantu — baik secara online, offline, maupun dengan bantuan konverter untuk mengubah format.
+
+Online Editor
+Digunakan langsung di browser tanpa perlu instalasi:
+
+Dillinger: Editor Markdown berbasis web dengan tampilan bersih, mendukung ekspor ke HTML atau PDF.
+
+StackEdit: Cocok untuk menulis dan menyimpan dokumen secara sinkron dengan Google Drive atau Dropbox. Mendukung kolaborasi dan preview real-time.
+
+Offline Editor
+Cocok untuk penggunaan lokal, lebih stabil dan bisa digunakan tanpa internet:
+
+Typora: Editor WYSIWYG (tampilan langsung seperti hasil akhir) yang mendukung berbagai elemen Markdown dan ekspor dokumen.
+
+Obsidian: Editor untuk personal knowledge management berbasis Markdown dengan fitur backlink dan graph view.
+
+Visual Studio Code (VS Code): Editor teks canggih dengan plugin Markdown seperti preview, linting, dan konversi.
+
+Converter
+Untuk mengubah file Markdown ke berbagai format:
+
+Pandoc: Tool powerful untuk mengonversi Markdown ke PDF, HTML, DOCX, dan format lainnya. Cocok untuk publikasi dokumen profesional.
+
+Dengan berbagai tools ini, Markdown bisa digunakan lebih fleksibel—baik untuk penulisan cepat, dokumentasi proyek, blogging, hingga pembuatan laporan.

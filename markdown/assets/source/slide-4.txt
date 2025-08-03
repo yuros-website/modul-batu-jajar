@@ -1,0 +1,9 @@
+Markdown sangat mudah digunakan dan tidak memerlukan perangkat lunak khusus. Slide ini menjelaskan cara dasar menggunakan Markdown untuk menulis dokumen secara efisien.
+
+Menggunakan Editor Teks atau Editor Markdown
+Markdown bisa ditulis di editor teks biasa seperti Notepad atau TextEdit. Namun, karena tidak ada fitur pratinjau, pengguna perlu lebih hati-hati dengan sintaks.
+
+Lebih disarankan menggunakan editor khusus Markdown seperti: VS Code (dengan ekstensi Markdown), Typora, Obsidian, StackEdit (online) Editor ini menyediakan tampilan live preview dan sering kali menyertakan fitur tambahan seperti konversi otomatis, pemformatan cepat, dan navigasi antar bagian.
+Melihat Pratinjau Secara Langsung
+Banyak platform dan IDE modern seperti: Visual Studio Code, GitHub, Notion, GitLab
+secara otomatis merender Markdown menjadi tampilan akhir. Artinya, pengguna bisa langsung melihat hasil akhir dokumen tanpa harus mengonversi secara manual.

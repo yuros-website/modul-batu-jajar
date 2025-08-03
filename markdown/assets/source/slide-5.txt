@@ -1,0 +1,12 @@
+Slide ini membahas sintaks dasar Markdown yang paling sering digunakan untuk memformat teks secara sederhana. Berikut beberapa elemen utamanya:
+Heading (Judul)
+Digunakan untuk membuat struktur dokumen. Gunakan tanda pagar #: 1# Judul 1, 2# Judul 2, 3# Judul 3
+ Teks Tebal (Bold)
+Gunakan dua bintang ** atau garis bawah ganda untuk menebalkan teks: **Teks** atau __Teks__
+Teks Miring (Italic)
+Gunakan satu bintang * atau garis bawah _: *Italic* atau _Italic_
+List (Daftar)
+Unordered List (Tanpa Nomor)
+Gunakan tanda -, *, atau + di awal baris
+Ordered List (Dengan Nomor)
+Gunakan angka dan titik

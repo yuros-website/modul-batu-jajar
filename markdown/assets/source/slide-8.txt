@@ -1,0 +1,13 @@
+Agar dokumen Markdown yang kamu buat lebih terstruktur, mudah dibaca, dan profesional, ada beberapa tips sederhana namun penting yang bisa diterapkan
+
+Gunakan Heading untuk Struktur
+Gunakan tanda 1# hingga 6# untuk membuat judul dan subjudul. Ini membantu membagi dokumen ke dalam bagian yang jelas dan rapi.
+
+Gunakan List untuk Poin-poin
+Susun ide atau instruksi dalam bentuk bullet list (- atau *) atau numbered list (1., 2., dan seterusnya.) agar lebih mudah dibaca.
+
+Manfaatkan Preview Editor
+Selalu gunakan fitur preview di editor Markdown agar kamu bisa melihat tampilan akhir teks yang akan dibaca orang lain. Ini membantu menghindari kesalahan format.
+
+Simpan dalam Format .m d
+Pastikan file Markdown disimpan dengan ekstensi .m d agar dikenali dan dirender secara otomatis oleh platform seperti GitHub, Obsidian, VS Code, dll.

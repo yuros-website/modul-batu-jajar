@@ -1,0 +1,11 @@
+Markdown memudahkan kita untuk menambahkan tautan (link) dan gambar ke dalam dokumen tanpa menggunakan tag HTML secara eksplisit.
+Membuat Tautan (Link)
+Markdown menggunakan format sederhana:  [teks link](https://alamat-url.com)
+contoh : [Kunjungi GitHub](https://github.com)
+
+ 2. Menambahkan Gambar
+Untuk menampilkan gambar, gunakan tanda seru ! di awal: ![teks alternatif](https://link-gambar.jpg)
+contoh : ![Logo Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+Gambar akan langsung ditampilkan di halaman, dan teks alternatif akan muncul jika gambar gagal dimuat.
+
+Markdown mengubah kedua sintaks ini secara otomatis menjadi elemen HTML (<a> untuk link dan <img> untuk gambar), membuat dokumen tampak rapi tanpa penulisan HTML manual.

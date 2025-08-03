@@ -1,0 +1,9 @@
+Sebelum memulai proses instalasi Git di sistem operasi Linux, ada beberapa hal penting yang perlu dipersiapkan agar instalasi dapat berjalan dengan lancar dan tanpa kesalahan. Persiapan ini mencakup aspek teknis dan administratif yang harus dipenuhi terlebih dahulu.
+
+Pertama, pastikan distro Linux yang digunakan mendukung Git. Git tersedia hampir di semua distribusi Linux populer seperti Ubuntu, Debian, Fedora, CentOS, Red Hat, openSUSE, dan Arch Linux. Masing-masing distro memiliki sistem manajemen paket (package manager) yang berbeda, sehingga perintah instalasi Git pun akan berbeda-beda. Misalnya, Ubuntu dan Debian menggunakan a p t, Fedora menggunakan d n f, CentOS menggunakan yum, dan Arch menggunakan pacman.
+
+Kedua, perangkat harus terhubung dengan internet. Meskipun Git adalah perangkat lunak ringan, instalasi melalui terminal biasanya dilakukan secara online karena sistem akan mengunduh Git langsung dari repository resmi distribusi. Jika koneksi internet tidak tersedia atau terputus di tengah proses, maka instalasi bisa gagal atau file yang diunduh bisa rusak.
+
+Ketiga, pengguna perlu memiliki akses sudo atau root. Hal ini penting karena perintah instalasi akan melakukan perubahan pada sistem, termasuk menambahkan paket, membuat folder sistem, dan melakukan konfigurasi dasar. Jika pengguna tidak memiliki hak akses administratif, perintah seperti sudo apt install git tidak akan bisa dijalankan, atau akan menghasilkan error. Oleh karena itu, login sebagai user yang memiliki hak sudo sangat disarankan.
+
+Selain itu, untuk beberapa distro, sangat disarankan melakukan pembaruan sistem paket terlebih dahulu dengan menjalankan perintah seperti sudo a p t update check-update. Ini dilakukan agar sistem menggunakan versi Git terbaru yang tersedia di repository dan menghindari konflik dependensi selama proses instalasi.

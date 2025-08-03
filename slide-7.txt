@@ -1,0 +1,16 @@
+Instalasi Git dari source (kode sumber) adalah alternatif bagi pengguna yang menginginkan versi Git terbaru atau ingin melakukan kustomisasi. Metode ini berguna ketika versi Git yang tersedia melalui manajer paket distro sudah terlalu lama atau tidak mendukung fitur tertentu.
+
+Langkah-langkah Instalasi Git dari Source:
+pertama Pasang Dependensi
+Sebelum membangun Git dari source, pastikan sistem memiliki dependensi yang diperlukan seperti compiler dan pustaka pendukung. Di Debian/Ubuntu, jalankan: 
+sudo apt update
+sudo apt install make libssl-dev libghc-zlib-dev libcurl4-gnutls-dev libexpat1-dev gettext unzip
+kedua Unduh Source Code Git
+Unduh versi terbaru dari situs resmi: wget https://mirrors.edge.kernel.org/pub/software/scm/git/git-versi.tar.gz
+tar -zxf git-versi.tar.gz
+cd git-versi
+ketiga Kompilasi dan Instalasi
+Jalankan perintah berikut untuk membangun dan menginstal Git: make prefix=/usr/local all
+sudo make prefix=/usr/local install
+ke-empat Verifikasi Instalasi
+Setelah instalasi selesai, verifikasi dengan: git --version

@@ -1,0 +1,8 @@
+Setelah Git berhasil diinstal dan diverifikasi, langkah penting berikutnya adalah melakukan konfigurasi awal Git. Konfigurasi ini bertujuan agar setiap commit yang dibuat memiliki informasi identitas pengguna yang jelas, yaitu nama dan email. Ini sangat penting, terutama jika pengguna akan bekerja dalam tim atau menggunakan layanan seperti GitHub dan GitLab.
+
+Langkah konfigurasi dilakukan melalui terminal dengan perintah berikut: git config --global user.name "Nama Anda". git config --global user.email "email@example.com"
+--global berarti konfigurasi ini berlaku untuk seluruh repository di sistem pengguna. "Nama Anda" diganti dengan nama asli atau nama pengguna yang ingin ditampilkan pada commit. "email@example.com" diganti dengan alamat email yang terdaftar di layanan Git seperti GitHub (jika digunakan).
+
+Setelah perintah tersebut dijalankan, Git akan menyimpan informasi tersebut dalam file konfigurasi global (~/.gitconfig). Konfigurasi ini hanya perlu dilakukan satu kali, kecuali pengguna ingin mengubahnya.
+
+Untuk memastikan konfigurasi berhasil, pengguna bisa mengetik: git config --list. Perintah ini akan menampilkan seluruh konfigurasi Git yang aktif, termasuk nama dan email yang baru saja disetel.

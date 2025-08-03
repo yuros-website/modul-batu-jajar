@@ -1,0 +1,10 @@
+Terdapat beberapa metode untuk menginstal Git di Linux, dan pilihan metode ini bergantung pada distro Linux yang digunakan. Umumnya, Git dapat diinstal dengan sangat mudah menggunakan package manager bawaan masing-masing distro. Metode ini merupakan cara paling praktis dan direkomendasikan, karena proses instalasi berlangsung otomatis dan Git akan terpasang dalam versi yang stabil sesuai dengan repositori distro. Berikut adalah metode instalasi Git berdasarkan distro:
+
+Ubuntu dan Debian
+Menggunakan a p t (Advanced Packaging Tool). a p t update digunakan untuk memperbarui daftar paket, agar Git yang terinstal merupakan versi terbaru dari repository. 
+
+Proses instalasi melalui package manager ini cukup cepat karena seluruh proses seperti mengunduh file, menyelesaikan dependensi, dan menempatkan file di sistem dilakukan secara otomatis. Metode ini juga memastikan bahwa Git diinstal dari sumber resmi dan terverifikasi, sehingga lebih aman digunakan.
+
+Selain metode standar ini, pengguna juga dapat menginstal Git melalui kompilasi dari source code, terutama jika ingin menggunakan versi terbaru yang belum tersedia di repository distro. Namun metode ini lebih kompleks dan memerlukan beberapa dependensi tambahan seperti make dan gcc.
+
+Dengan mengetahui metode instalasi berdasarkan distro, pengguna dapat memilih pendekatan yang paling sesuai dengan sistem mereka, serta menjamin bahwa Git terpasang dengan versi dan stabilitas yang tepat.

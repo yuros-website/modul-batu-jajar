@@ -1,0 +1,7 @@
+Langkah instalasi Git di Linux sangat bergantung pada distribusi Linux yang digunakan, karena setiap distro memiliki manajer paket (package manager) yang berbeda. Proses ini umumnya dilakukan melalui terminal.
+
+Pertama, buka terminal lalu perbarui daftar paket sistem. Ini penting agar sistem mendapatkan versi Git terbaru dari repository. Untuk Ubuntu atau Debian, jalankan sudo a p t update.
+
+Kedua, jalankan perintah instalasi. Misalnya: Ubuntu/Debian: sudo a p t install git. 
+
+Setelah itu, sistem akan mengunduh Git beserta dependensinya, lalu menginstalnya secara otomatis. Proses ini biasanya memerlukan koneksi internet dan akses sudo/root. Setelah instalasi selesai, Git siap digunakan dan dapat diverifikasi dengan perintah git --version.

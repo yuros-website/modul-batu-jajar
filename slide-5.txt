@@ -1,0 +1,5 @@
+Setelah proses instalasi selesai, penting untuk memverifikasi apakah Git telah terpasang dengan benar di sistem. Verifikasi ini dilakukan melalui terminal dengan mengetik perintah: git --version. Jika instalasi berhasil, terminal akan menampilkan versi Git yang terpasang, misalnya: git version 2.34.1. 
+
+Tampilan tersebut menandakan bahwa Git sudah aktif dan siap digunakan. Jika yang muncul adalah pesan error seperti “command not found”, berarti instalasi belum berhasil atau Git tidak dikenali oleh sistem (kemungkinan belum ditambahkan ke PATH).
+
+Langkah verifikasi ini sangat penting karena memastikan bahwa Git tidak hanya terinstal, tetapi juga dapat dijalankan melalui terminal tanpa masalah. Ini adalah tahap awal sebelum melanjutkan ke konfigurasi Git seperti pengaturan identitas pengguna (git config), atau mulai menggunakan Git dalam proyek pengembangan.

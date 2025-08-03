@@ -1,0 +1,9 @@
+GitHub Organization menyediakan berbagai fitur utama yang dirancang untuk mendukung kolaborasi pengembangan perangkat lunak secara efisien, terstruktur, dan aman. Salah satu fitur paling penting adalah manajemen tim (team management), di mana anggota dapat dikelompokkan berdasarkan divisi atau tanggung jawab proyek. Dengan fitur ini, administrator dapat menetapkan hak akses secara kolektif kepada seluruh tim, bukan hanya individu, sehingga pengaturan izin lebih cepat, akurat, dan mudah dikelola.
+
+Selain itu, Organization mendukung pembuatan dan pengelolaan repositori publik maupun privat, yang memungkinkan organisasi menyimpan kode sumber terbuka untuk kolaborasi dengan publik, atau menyimpan proyek sensitif secara privat dengan kontrol akses ketat. Pengguna juga dapat dengan mudah menetapkan siapa yang dapat membaca, mengedit, atau mengelola tiap repositori.
+
+Fitur lainnya adalah GitHub Actions, yaitu sistem Continuous Integration / Continuous Deployment (CI/CD) bawaan GitHub yang memungkinkan organisasi mengotomatisasi proses seperti pengujian, build, hingga deployment kode setiap kali ada perubahan. Ini sangat membantu dalam menjaga kualitas kode dan mempercepat siklus pengembangan perangkat lunak.
+
+GitHub Organization juga menyediakan integrasi dengan berbagai tools eksternal, seperti Slack, Jira, Trello, dan layanan cloud (AWS, Azure, dll.), yang membantu memperlancar koordinasi tim dan alur kerja. Selain itu, terdapat fitur audit log dan pengaturan keamanan lanjutan seperti Two-Factor Authentication (2FA) untuk menjaga keamanan organisasi secara keseluruhan.
+
+Dengan semua fitur ini, GitHub Organization bukan hanya sebagai tempat penyimpanan kode, tapi juga sebagai platform manajemen kerja tim yang profesional dan siap digunakan dalam lingkungan pengembangan skala kecil hingga besar.

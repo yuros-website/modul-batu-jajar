@@ -1,0 +1,1 @@
+Fase kelima adalah Deployment, yaitu proses penerapan perangkat lunak ke lingkungan operasional. Sistem yang telah selesai dan lulus pengujian diimplementasikan untuk digunakan secara nyata oleh pengguna. Penerapan ini dapat dilakukan secara langsung (big bang) atau bertahap, tergantung pada kebutuhan dan kompleksitas sistem.

@@ -1,0 +1,4 @@
+Element Selector: menargetkan elemen HTML berdasarkan nama tag (contoh: h1, p, div).
+Class Selector: menggunakan simbol titik (.) diikuti nama kelas (contoh: .menu), digunakan untuk menargetkan satu atau lebih elemen yang memiliki atribut class tersebut.
+ID Selector: menggunakan tanda pagar (#) diikuti nama ID (contoh: #header), digunakan untuk menargetkan elemen unik dalam dokumen.
+Selector Kombinasi: seperti descendant selector (div p) yang menargetkan paragraf di dalam div, atau group selector (h1, h2, h3) yang memungkinkan gaya diterapkan ke beberapa elemen sekaligus.

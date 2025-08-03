@@ -1,0 +1,1 @@
+Metode pertama, **Inline CSS**, dilakukan dengan menambahkan properti gaya langsung pada atribut elemen HTML. Pendekatan ini cocok untuk pengaturan cepat dan spesifik, namun sangat tidak efisien untuk proyek berskala besar karena mengganggu pemisahan antara konten dan tampilan, serta menyulitkan dalam hal pemeliharaan kode.

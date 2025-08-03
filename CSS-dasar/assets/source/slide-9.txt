@@ -1,0 +1,1 @@
+Kedua, **Internal CSS** digunakan dengan menuliskan aturan gaya di dalam tag `<style>` dalam bagian `<head>` dokumen HTML. Metode ini lebih terorganisir dibanding inline, namun masih menyatu dengan struktur HTML sehingga tidak optimal untuk proyek yang memerlukan konsistensi gaya antar halaman.

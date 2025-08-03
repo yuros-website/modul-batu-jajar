@@ -1,0 +1,4 @@
+Warna: CSS memungkinkan pengaturan warna latar belakang, teks, border, dan elemen lainnya. Ini sangat penting dalam membentuk identitas visual situs, menciptakan kontras, dan meningkatkan kenyamanan membaca.
+Tipografi: CSS menyediakan kontrol penuh terhadap gaya huruf, termasuk jenis font, ukuran, ketebalan, jarak antar huruf atau baris, serta dekorasi teks seperti underline atau italic. Tipografi yang konsisten mendukung keterbacaan dan estetika.
+Layout: Penggunaan properti layout seperti display, position, float, serta teknik modern seperti Flexbox dan Grid, memungkinkan penataan elemen dalam struktur halaman yang rapi dan intuitif.
+Adaptasi Tampilan (Responsivitas): Dengan fitur seperti media queries, CSS memungkinkan desain halaman beradaptasi secara otomatis terhadap berbagai ukuran layar dan jenis perangkat, seperti desktop, tablet, dan ponsel. Ini menjadikan situs web dapat diakses dengan optimal dalam konteks apapun.

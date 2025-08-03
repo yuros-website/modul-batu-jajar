@@ -1,0 +1,5 @@
+Markdown adalah bahasa markup ringan yang digunakan untuk memformat teks secara sederhana dan efisien. Diciptakan oleh John Gruber pada tahun 2004, Markdown dirancang agar mudah dibaca dan ditulis oleh manusia, serta dapat dengan cepat dikonversi menjadi HTML.
+
+Markdown sangat populer di kalangan pengembang, penulis dokumentasi teknis, blogger, dan siapa saja yang ingin membuat dokumen bersih dan terstruktur tanpa perlu menulis kode HTML secara manual. Markdown menggunakan simbol-simbol yang familiar seperti #, *, dan [] untuk memberi gaya teks seperti judul, teks tebal, miring, tautan, dan lain-lain.
+
+Penggunaan Markdown kini telah meluas dan didukung di banyak platform seperti GitHub (untuk README.md), Notion, Jupyter Notebook, dan banyak editor teks seperti VS Code dan Obsidian.

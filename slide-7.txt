@@ -1,0 +1,5 @@
+Setelah proses instalasi dan konfigurasi awal selesai, langkah penting berikutnya adalah melakukan verifikasi untuk memastikan bahwa Git telah terpasang dan dikonfigurasi dengan benar di sistem. Verifikasi ini membantu mendeteksi lebih awal jika ada kesalahan selama instalasi, seperti Git yang tidak dikenali oleh sistem atau konfigurasi pengguna yang belum tersimpan.
+
+Langkah pertama dalam verifikasi adalah dengan membuka Git Bash atau Command Prompt (CMD), lalu menjalankan perintah: git --version
+
+ika instalasi berhasil, terminal akan menampilkan versi Git yang terpasang, seperti git version 2.44.0.windows.1. Ini menandakan bahwa Git sudah dikenali oleh sistem dan siap digunakan.

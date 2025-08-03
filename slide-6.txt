@@ -1,0 +1,9 @@
+Setelah Git berhasil diinstal pada Windows, langkah penting berikutnya adalah melakukan konfigurasi awal, yang berguna untuk mengidentifikasi pengguna dalam setiap aktivitas Git, seperti melakukan commit. Konfigurasi ini sangat penting, terutama saat bekerja dalam tim atau menggunakan layanan seperti GitHub, agar setiap perubahan yang dikirimkan ke repository tercatat atas nama pengguna yang benar. Konfigurasi ini hanya perlu dilakukan sekali di awal dan akan berlaku secara global untuk semua proyek Git di komputer tersebut.
+
+Untuk melakukan konfigurasi, pengguna dapat membuka Git Bash, yaitu terminal khusus yang disediakan oleh Git, kemudian menjalankan dua perintah dasar
+Perintah pertama digunakan untuk menyetel nama pengguna, sedangkan perintah kedua untuk menyetel alamat email yang akan dikaitkan dengan aktivitas Git Anda. Kata --global berarti pengaturan ini akan berlaku untuk seluruh repository di komputer. Jika nantinya dibutuhkan pengaturan berbeda untuk proyek tertentu, maka pengaturan lokal dapat diterapkan secara terpisah tanpa mengubah pengaturan global.
+
+Setelah menjalankan perintah di atas, Anda dapat mengecek hasil konfigurasi dengan menggunakan perintah:
+git config --list
+Perintah ini akan menampilkan seluruh konfigurasi Git yang sedang aktif, termasuk nama dan email yang baru saja diatur. Konfigurasi awal ini menjadi fondasi agar Git dapat berjalan sesuai identitas pengguna, serta menjadi standar praktik terbaik dalam menggunakan sistem kontrol versi.
+

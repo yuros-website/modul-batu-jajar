@@ -1,0 +1,7 @@
+GitHub bukan hanya platform untuk menyimpan dan mengelola kode menggunakan Git, tetapi juga menyediakan berbagai fitur manajemen proyek yang memungkinkan tim bekerja secara terorganisir dan efisien. Project Management di GitHub mencakup serangkaian alat bantu untuk mengelola tugas, memantau progres kerja, mengatur peran dalam tim, serta merencanakan dan mengeksekusi proyek pengembangan perangkat lunak.
+
+Fitur-fitur seperti Projects, Issues, Milestones, dan Labels memungkinkan pengguna untuk membuat sistem kerja yang menyerupai papan tugas (mirip Trello atau Jira) di dalam GitHub. Ini sangat berguna untuk mengelola backlog, melacak bug, mengembangkan fitur baru, atau sekadar memantau status kerja dari awal hingga selesai.
+
+GitHub Projects (terutama versi beta terbaru) menyediakan tampilan board (kanban) dan table (daftar tugas) yang bisa dikustomisasi. Pengguna dapat membuat kolom seperti “To Do”, “In Progress”, dan “Done” untuk memvisualisasikan alur kerja. Setiap kartu di board biasanya terhubung langsung ke sebuah Issue atau Pull Request, sehingga progres kode dan tugas bisa dilihat secara real-time.
+
+Manajemen proyek ini tidak hanya cocok untuk perusahaan teknologi besar, tetapi juga sangat bermanfaat bagi tim kecil, mahasiswa, komunitas open-source, bahkan individu yang ingin mengelola pekerjaan mereka dengan rapi. Karena semua alat ini terintegrasi langsung dalam satu platform, GitHub menjadi ekosistem yang mendukung kolaborasi, transparansi, dan dokumentasi kerja secara menyeluruh.

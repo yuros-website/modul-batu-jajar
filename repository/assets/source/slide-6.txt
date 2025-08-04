@@ -1,0 +1,7 @@
+Dalam penggunaan GitHub, tiga istilah dasar yang sangat penting untuk dipahami adalah Clone, Push, dan Pull. Ketiganya merupakan bagian dari alur kerja Git yang memungkinkan kita bekerja dengan versi lokal dari repositori GitHub, lalu menyinkronkannya kembali ke server GitHub secara efisien.
+
+Pertama, Clone adalah proses menyalin seluruh isi repositori dari GitHub ke komputer lokal kita. Dengan melakukan cloning, kita bisa bekerja secara offline, mengedit file, membuat perubahan, dan menjalankan proyek tanpa harus terhubung ke internet setiap saat. Clone dilakukan menggunakan perintah git clone di terminal atau melalui aplikasi Git GUI. Setelah cloning berhasil, kita memiliki salinan penuh dari seluruh riwayat proyek, bukan hanya file saat ini.
+
+Selanjutnya, setelah kita membuat perubahan di repositori lokal, kita dapat mengirimkan perubahan tersebut ke repositori GitHub dengan menggunakan perintah Push. Push akan memperbarui versi di GitHub agar mencerminkan perubahan terbaru yang telah kita buat di lokal. Sebelum melakukan push, biasanya kita melakukan commit, yaitu menyimpan snapshot perubahan sebagai satu unit log yang menjelaskan apa yang diubah.
+
+Sementara itu, Pull adalah kebalikan dari push. Saat orang lain membuat perubahan di repositori GitHub (terutama dalam proyek kolaboratif), kita bisa menggunakan Pull untuk mengambil perubahan terbaru tersebut agar versi lokal kita tetap sinkron. Perintah git pull akan mengunduh semua perubahan terbaru dari GitHub ke komputer lokal kita.

@@ -1,0 +1,17 @@
+GitHub menyediakan beragam fitur yang mendukung aktivitas manajemen proyek secara kolaboratif langsung dari dalam platform. Fitur-fitur ini memungkinkan tim untuk menyusun rencana kerja, membagi tugas, melacak progres, hingga mengelola rilis secara terintegrasi tanpa perlu berpindah ke tools eksternal. Berikut adalah fitur-fitur utama yang digunakan dalam project management di GitHub:
+
+1. Projects
+Fitur ini menyediakan papan tugas bergaya Kanban atau Tabel yang bisa disesuaikan. Di dalamnya, pengguna bisa membuat kolom seperti To Do, In Progress, dan Done untuk memantau status tugas. Projects dapat terhubung langsung dengan issue dan pull request, sehingga semua aktivitas dapat dipantau dalam satu tempat.
+
+2. Issues
+Issues digunakan untuk mencatat pekerjaan yang harus dilakukan, baik itu fitur baru, perbaikan bug, maupun catatan diskusi. Setiap issue dapat diberi label, ditugaskan ke anggota tim (assignee), dan dikaitkan dengan milestone atau project tertentu. Ini adalah jantung dari pelacakan tugas dalam GitHub.
+
+3. Milestones
+Milestone berfungsi untuk mengelompokkan beberapa issue atau pull request dalam satu target atau fase tertentu, misalnya rilis versi 1.0 atau sprint minggu ke-2. Dengan milestone, kita bisa memantau progres penyelesaian proyek berdasarkan deadline atau tujuan tertentu.
+
+4. Labels
+Label membantu mengorganisasi dan mengkategorikan issue atau pull request. Contohnya, label seperti bug, enhancement, documentation, atau priority: high bisa digunakan untuk memberikan konteks cepat kepada tim mengenai jenis dan urgensi pekerjaan.
+
+5. Assignees dan Mentions
+Setiap issue atau pull request dapat ditugaskan ke anggota tim tertentu (assignee) untuk memastikan tanggung jawab jelas. Selain itu, fitur @mention memungkinkan anggota saling berkomunikasi langsung dalam komentar, menjaga kolaborasi tetap terpusat dan terdokumentasi.
+
